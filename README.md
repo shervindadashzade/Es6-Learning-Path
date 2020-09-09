@@ -15,8 +15,9 @@ this is my es6 learning path and kinda summary of things I learned, every time i
 	- [Octal and binary literals](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/0-New%20Syntax/9-octal-binary-literals.js)
 	- [Js tamplate literal](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/0-New%20Syntax/10-js-template-literal.js)
 - Destructuring
-
-
+	- [Array Destructuring](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/1-Destructuring/1-array-destructuring.js)
+	- [Object Destructuring](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/1-Destructuring/2-object-destructuring.js)
+- Es6 Modules
 
 > Updates Will Ocure In This Repo
  Good Luck.		
