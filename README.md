@@ -18,6 +18,8 @@ this is my es6 learning path and kinda summary of things I learned, every time i
 	- [Array Destructuring](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/1-Destructuring/1-array-destructuring.js)
 	- [Object Destructuring](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/1-Destructuring/2-object-destructuring.js)
 - Es6 Modules
+	- [ES6 Modules](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/2-ES6%20Modules/1-es6-modules.js)
+- Class
 
 > Updates Will Ocure In This Repo
  Good Luck.		
