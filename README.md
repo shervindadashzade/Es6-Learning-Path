@@ -23,5 +23,8 @@ this is my es6 learning path and kinda summary of things I learned, every time i
 	- [class](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/3-ES6%20Classes/class.js)
 	- [extends and super](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/3-ES6%20Classes/extends.js)
 	- [new.target](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/3-ES6%20Classes/new.target.js)
+- Arrow Functions
+	- [Arrow functions](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/4-Arrow%20Functions/arrow-function.js)
+	- [When should not to use arrow functions](https://github.com/shervindadashzade/Es6-Learning-Path/blob/master/4-Arrow%20Functions/when-not-use-arrow-functions.js)
 > Updates Will Ocure In This Repo
  Good Luck.		
