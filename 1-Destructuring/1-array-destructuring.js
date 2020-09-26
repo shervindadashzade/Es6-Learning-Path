@@ -24,6 +24,7 @@ function getItems(){
 }
 let items = getItems();
 let c = items[2] !== undefined ? items[2] : 0;
+
 console.log(c);
 // in es6 we do this
 [,,c = 0] = getItems();
